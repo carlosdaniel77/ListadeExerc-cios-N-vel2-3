@@ -1,0 +1,27 @@
+C:\Users\alunos\source\repos\ListadeExercícios\Nível2\bin\Debug\netcoreapp3.1\Nível2.exe
+C:\Users\alunos\source\repos\ListadeExercícios\Nível2\bin\Debug\netcoreapp3.1\Nível2.deps.json
+C:\Users\alunos\source\repos\ListadeExercícios\Nível2\bin\Debug\netcoreapp3.1\Nível2.runtimeconfig.json
+C:\Users\alunos\source\repos\ListadeExercícios\Nível2\bin\Debug\netcoreapp3.1\Nível2.runtimeconfig.dev.json
+C:\Users\alunos\source\repos\ListadeExercícios\Nível2\bin\Debug\netcoreapp3.1\Nível2.dll
+C:\Users\alunos\source\repos\ListadeExercícios\Nível2\bin\Debug\netcoreapp3.1\Nível2.pdb
+C:\Users\alunos\source\repos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.csprojAssemblyReference.cache
+C:\Users\alunos\source\repos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.csproj.CoreCompileInputs.cache
+C:\Users\alunos\source\repos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.AssemblyInfoInputs.cache
+C:\Users\alunos\source\repos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.AssemblyInfo.cs
+C:\Users\alunos\source\repos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.dll
+C:\Users\alunos\source\repos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.pdb
+C:\Users\alunos\source\repos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.genruntimeconfig.cache
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível2\bin\Debug\netcoreapp3.1\Nível2.exe
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível2\bin\Debug\netcoreapp3.1\Nível2.deps.json
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível2\bin\Debug\netcoreapp3.1\Nível2.runtimeconfig.json
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível2\bin\Debug\netcoreapp3.1\Nível2.runtimeconfig.dev.json
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível2\bin\Debug\netcoreapp3.1\Nível2.dll
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível2\bin\Debug\netcoreapp3.1\Nível2.pdb
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.csproj.AssemblyReference.cache
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.AssemblyInfoInputs.cache
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.AssemblyInfo.cs
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.csproj.CoreCompileInputs.cache
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.dll
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.pdb
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível2\obj\Debug\netcoreapp3.1\Nível2.genruntimeconfig.cache

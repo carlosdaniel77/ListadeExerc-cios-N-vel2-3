@@ -1,0 +1,21 @@
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível3\bin\Debug\Nível3.exe.config
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível3\bin\Debug\Nível3.exe
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível3\bin\Debug\Nível3.pdb
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível3\obj\Debug\Nível3.csproj.AssemblyReference.cache
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível3\obj\Debug\Nível3.csproj.CoreCompileInputs.cache
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível3\obj\Debug\Nível3.exe
+D:\Etec 2021-2022\2-semestre ETEC\DS\Diversos\ListadeExercícios\Nível3\obj\Debug\Nível3.pdb
+C:\Users\alunos\Desktop\ListadeExercícios\Nível3\bin\Debug\Nível3.exe.config
+C:\Users\alunos\Desktop\ListadeExercícios\Nível3\bin\Debug\Nível3.exe
+C:\Users\alunos\Desktop\ListadeExercícios\Nível3\bin\Debug\Nível3.pdb
+C:\Users\alunos\Desktop\ListadeExercícios\Nível3\obj\Debug\Nível3.csproj.AssemblyReference.cache
+C:\Users\alunos\Desktop\ListadeExercícios\Nível3\obj\Debug\Nível3.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\ListadeExercícios\Nível3\obj\Debug\Nível3.exe
+C:\Users\alunos\Desktop\ListadeExercícios\Nível3\obj\Debug\Nível3.pdb
+C:\Users\lucas\Desktop\ListadeExercícios\Nível3\obj\Debug\Nível3.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\ListadeExercícios\Nível3\obj\Debug\Nível3.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ListadeExercícios\Nível3\obj\Debug\Nível3.exe
+C:\Users\lucas\Desktop\ListadeExercícios\Nível3\obj\Debug\Nível3.pdb
+C:\Users\lucas\Desktop\ListadeExercícios\Nível3\bin\Debug\Nível3.exe.config
+C:\Users\lucas\Desktop\ListadeExercícios\Nível3\bin\Debug\Nível3.exe
+C:\Users\lucas\Desktop\ListadeExercícios\Nível3\bin\Debug\Nível3.pdb
